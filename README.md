@@ -7,7 +7,7 @@ I am starting this Machine Learning project today on 11 feb 2026 to explore the 
 ### My Plans Are:
 To ensure I make steady progress, I am planning the following:
 * **Daily Goal:** At least 30 minutes of focused work.
-* **Focus Areas:** Data cleaning, visualization, and model tuning via self learniing and AI.
+* **Focus Areas:** Data cleaning, visualization, and model tuning via learniing (by books and web) and AI.
 * **Community:** Sharing my findings and errors within the gits.
 
 ---
